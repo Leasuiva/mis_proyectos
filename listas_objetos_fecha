@@ -1,0 +1,15 @@
+const lista = [
+    'Leandro', 
+    27,
+    true,
+    nacimiento = new Date('january 4 1996'),
+    libroFavorito = {
+        titulo: 'Harry potter 2',
+        autor: 'J. K. Rowling',
+        fecha: '1998',
+        url: 'https://www.buscalibre.com.ar/libro-harry-potter-y-la-camara-secreta/9788498380187/p/1255848'
+    }
+    
+]
+
+console.log(lista)
